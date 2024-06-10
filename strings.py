@@ -1,6 +1,4 @@
 age = input()
-# 🚨 Don't change the code above 👆
-# Write your code below this line 👇
 max_age = 90
 a = int(age)
 b = int(max_age)
